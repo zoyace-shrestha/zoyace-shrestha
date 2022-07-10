@@ -8,7 +8,9 @@ I am Student at University of Nebraska-Lincoln, GO BIG RED!!!!. I really enjoy l
 
 ## Skills:  
 - ⚛️ React
-- 💻 HTML, CSS, JS
+- 💻 HTML, CSS, JS, Java
+
+## About-Me
 - 🔭 I’m currently working on UNL Information Technology System  
 - 📫 How to reach me: https://www.linkedin.com/in/zoyace-shrestha 
 - 😄 Pronouns: His/Him 
