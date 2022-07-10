@@ -1,6 +1,7 @@
+![Front-End Developer](https://media-exp2.licdn.com/dms/image/C5616AQGoASEVC5sDjw/profile-displaybackgroundimage-shrink_350_1400/0/1657258592078?e=1663200000&v=beta&t=itSHD0GfsGs8luhIf_eJh7nPMLZ9R1ItnJXaRIEHx4w)
 ### Hi there 👋, I'm Zoyace Shrestha
 #### Front-End Developer
-![Front-End Developer](https://media-exp2.licdn.com/dms/image/C5616AQGoASEVC5sDjw/profile-displaybackgroundimage-shrink_350_1400/0/1657258592078?e=1663200000&v=beta&t=itSHD0GfsGs8luhIf_eJh7nPMLZ9R1ItnJXaRIEHx4w)
+
 
 I am Student at University of Nebraska-Lincoln, GO BIG RED!!!!. I really enjoy learning new languages and frameworks and want to get hands on experience on them. I have develop webpages using basic HTML, CSS, Javascript and have a well foundation on WordPress. 
 
