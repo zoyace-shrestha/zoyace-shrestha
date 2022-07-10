@@ -1,6 +1,19 @@
-### Hi there 👋
+### Hi there 👋, I'm Zoyace Shrestha
+#### Front-End Developer
+![Front-End Developer](https://media-exp2.licdn.com/dms/image/C5616AQGoASEVC5sDjw/profile-displaybackgroundimage-shrink_350_1400/0/1657258592078?e=1663200000&v=beta&t=itSHD0GfsGs8luhIf_eJh7nPMLZ9R1ItnJXaRIEHx4w)
 
-I'm Zoyace Shrestha, and I am Student at University of Nebraska-Lincoln, GO BIG RED!!!!. I really enjoy learning new languages and frameworks and get hands on experience on them. I have develop webpages using basic HTML, CSS, Javascript and have a well foundation on WordPress. 
+I am Student at University of Nebraska-Lincoln, GO BIG RED!!!!. I really enjoy learning new languages and frameworks and want to get hands on experience on them. I have develop webpages using basic HTML, CSS, Javascript and have a well foundation on WordPress. 
+
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on UNL Information Technology System  
+- 📫 How to reach me: https://www.linkedin.com/in/zoyace-shrestha 
+- 😄 Pronouns: His/Him 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/zoyace-shrestha/)  
+
 
 
 [![Zoyace's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoyace-shrestha)](https://github.com/zoyace-shrestha/github-readme-stats)
