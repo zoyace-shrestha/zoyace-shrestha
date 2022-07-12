@@ -7,7 +7,6 @@ I am Student at University of Nebraska-Lincoln, GO BIG RED!!!!. I really enjoy l
 
 
 ## Skills:  
-- ⚛️ React
 - 💻 HTML, CSS, JS, Java
 
 ## About-Me
