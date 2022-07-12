@@ -19,7 +19,7 @@ I am Student at University of Nebraska-Lincoln, GO BIG RED!!!!. I really enjoy l
 
 
 
-[![Zoyace's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoyace-shrestha)](https://github.com/zoyace-shrestha/github-readme-stats)
+<!-- [![Zoyace's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoyace-shrestha)](https://github.com/zoyace-shrestha/github-readme-stats) -->
 <!--
 **zoyace-shrestha/zoyace-shrestha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
