@@ -1,4 +1,3 @@
-![Front-End Developer](https://media-exp2.licdn.com/dms/image/C5616AQGoASEVC5sDjw/profile-displaybackgroundimage-shrink_350_1400/0/1657258592078?e=1663200000&v=beta&t=itSHD0GfsGs8luhIf_eJh7nPMLZ9R1ItnJXaRIEHx4w)
 # Hi there 👋, I'm Zoyace Shrestha
 
 #### Front-End Developer
