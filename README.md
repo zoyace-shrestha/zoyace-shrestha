@@ -1,9 +1,4 @@
-# Hi there 👋, I'm Zoyace Shrestha
-
-#### Front-End Developer
-
-I am Student at University of Nebraska-Lincoln, GO BIG RED!!!!. I really enjoy learning new languages and frameworks and want to get hands on experience on them. I have develop webpages using basic HTML, CSS, Javascript and have a well foundation on WordPress. 
-
+# Hi there 👋, I'm Zoyace Shrestha 
 
 ## Skills:  
 - 💻 C#, Javascript, Java, HTML, Python, Typescript, Unix, CSS, Sass, PHP
