@@ -8,8 +8,7 @@ I am Student at University of Nebraska-Lincoln, GO BIG RED!!!!. I really enjoy l
 ## Skills:  
 - 💻 C#, Javascript, Java, HTML, Python, Typescript, Unix, CSS, Sass, PHP
 
-## About-Me
-- 🔭 I’m currently working on UNL Information Technology System  
+## About-Me 
 - 📫 How to reach me: https://www.linkedin.com/in/zoyace-shrestha 
 - 😄 Pronouns: His/Him 
 
