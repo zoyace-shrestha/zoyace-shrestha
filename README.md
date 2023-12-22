@@ -6,7 +6,7 @@ I am Student at University of Nebraska-Lincoln, GO BIG RED!!!!. I really enjoy l
 
 
 ## Skills:  
-- 💻 HTML, CSS, JS, Java
+- 💻 C#, Javascript, Java, HTML, Python, Typescript, Unix, CSS, Sass, PHP
 
 ## About-Me
 - 🔭 I’m currently working on UNL Information Technology System  
