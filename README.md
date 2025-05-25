@@ -43,15 +43,3 @@ If you're looking for **collaboration opportunities**, including **private repo 
 
 ---
 
-## 📈 GitHub Stats
-
-<!--
-![Zoyace's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoyace-shrestha&show_icons=true&theme=radical)
--->
-
----
-<a href="https://www.linkedin.com/in/zoyace-shrestha" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="20" width="20" style="filter: invert(25%) sepia(87%) saturate(2205%) hue-rotate(190deg) brightness(91%) contrast(96%);">
-</a>
-
-
